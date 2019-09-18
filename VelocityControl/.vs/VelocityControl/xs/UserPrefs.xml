@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{20775C2D-EB3F-85FE-0A3A-2D651CA5556E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MessageSubscriber.cs">
+    <Files>
+      <File FileName="Assets/MessageSubscriber.cs" Line="86" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
